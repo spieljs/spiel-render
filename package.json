@@ -1,0 +1,56 @@
+{
+  "name": "spiel-render",
+  "version": "1.0.0",
+  "description": "render for every framework that use ultradom",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start",
+    "build": "./node_modules/typescript/bin/tsc",
+    "docs": "gulp typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spieljs/spiel-render.git"
+  },
+  "keywords": [
+    "spieljs",
+    "ultradom",
+    "javascript",
+    "typescript",
+    "render"
+  ],
+  "author": "Francisco Jesus Navarro Cortes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spieljs/spiel-render/issues"
+  },
+  "homepage": "https://github.com/spieljs/spiel-render#readme",
+  "dependencies": {
+    "typescript": "^2.7.2",
+    "ultradom": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.2",
+    "@types/mocha": "^2.2.48",
+    "@types/node": "^8.9.4",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-typedoc": "^2.2.0",
+    "jsdom": "^11.6.2",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jsdom-launcher": "^6.1.3",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-opera-launcher": "^1.0.0",
+    "karma-remap-coverage": "^0.1.5",
+    "karma-typescript": "^3.0.12",
+    "mocha": "^4.1.0",
+    "source-map-support": "^0.5.3",
+    "ts-node": "^3.3.0",
+    "tslint": "^5.9.1",
+    "typedoc": "^0.10.0"
+  }
+}
