@@ -1,7 +1,7 @@
 # Spiel Render
 Spiel render is a render for every framework that use ultradom.
 
-##Api documentation
+## Api documentation
 * [Spiel render API](https://spieljs.github.io/spiel-render/)
 
 ## How use it
