@@ -5,3 +5,4 @@ export type State = {[k in Keys]: any};
 
 export type View = (state: State) => VNode<any>;
 export type JSXElements = VNode<any>;
+export type Children = Array<VNode<{}>>;

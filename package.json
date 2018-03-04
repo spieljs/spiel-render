@@ -1,6 +1,6 @@
 {
   "name": "spiel-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "render for every framework that use ultradom",
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",

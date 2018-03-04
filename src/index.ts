@@ -1,1 +1,1 @@
-export {JSXElements, render, State, View} from "./render";
+export {Children, JSXElements, render, State, View} from "./render";
