@@ -2,7 +2,8 @@
   "name": "spiel-render",
   "version": "1.0.0",
   "description": "render for every framework that use ultradom",
-  "main": "index.js",
+  "main": "lib/src/index.js",
+  "types": "lib/src/index.d.ts",
   "scripts": {
     "test": "./node_modules/.bin/karma start",
     "build": "./node_modules/typescript/bin/tsc",

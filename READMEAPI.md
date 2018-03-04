@@ -36,4 +36,4 @@ document.body.appendChild(render(view, state));
 
 ## License
 
-Spiel Render is MIT licensed. See [license](LICENSE.md)
+Spiel Render is MIT licensed. See [license](https://github.com/spieljs/spiel-render/blob/master/LICENSE.md)
