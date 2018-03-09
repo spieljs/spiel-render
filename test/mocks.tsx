@@ -1,4 +1,4 @@
-import {createNode, VNode} from "ultradom";
+import {h, VNode} from "ultradom";
 import {render, State, View} from "../src";
 
 export const state: State = {

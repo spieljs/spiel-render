@@ -1,5 +1,5 @@
 import { assert, expect } from "chai";
-import { createNode as u, patch, VNode } from "ultradom";
+import { h, patch, VNode } from "ultradom";
 import { render } from "../src";
 import { state, view } from "./mocks";
 
