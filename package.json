@@ -1,6 +1,6 @@
 {
   "name": "spiel-render",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "render for every framework that use ultradom",
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/spieljs/spiel-render#readme",
   "dependencies": {
     "typescript": "^2.7.2",
-    "ultradom": "^2.2.0"
+    "ultradom": "^2.3.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.2",
