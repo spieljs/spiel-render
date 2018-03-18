@@ -1,4 +1,4 @@
-/src
+src
 lib/**/*.map
 .nyc_output
 gulpfile.js
