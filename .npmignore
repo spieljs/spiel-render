@@ -1,0 +1,13 @@
+/src
+lib/**/*.map
+.nyc_output
+gulpfile.js
+coverage
+karma.conf.js
+node_modules
+test
+docs
+READMEAPI.md
+tsconfig.json
+tslint
+package-lock.json
